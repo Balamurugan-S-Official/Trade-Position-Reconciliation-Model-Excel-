@@ -1,4 +1,4 @@
-#Trade & Position Reconciliation Model (Excel)
+**#Trade & Position Reconciliation Model (Excel)**
 
 Developed an Excel-based reconciliation model to compare internal trade ledger records against custodian statements for 18 equity and fixed-income trades, achieving a 77.78% match rate.
 
